@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mrRazmarin
-- 👀 I’m interested in C#
+- 👀 I’m interested in language Java
 - 🌱 I’m currently learning nowhere
 - 📫 How to reach me: street Pushkina, and house Kolotushkina.
