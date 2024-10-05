@@ -1,13 +1,13 @@
 <p align="center">
-    <img title="Hello" src="attachment/gif/welcome.gif">
+    <img title="Hello" width = "35%" src="attachment/gif/hello.gif">
 </p>
 
 
-# <img width="5%" title="About me" src="attachment/png/me.png"> About me
+# <img width="3%" title="About me" src="attachment/png/me.png"> About me
 
 <img align="right" width="35%" src="attachment/gif/bloom-man.gif">
 
-### _I am a QA Engineer_ <img width="3%" src="attachment/png/bug.png">
+### _I am a QA Engineer_ <img width="2%" src="attachment/png/bug.png">
 
 <p align="left">
     I have over 2 years of experience in testing web applications and quality assurance. I regularly pursue further education in the field of testing, studying new technologies and improving my skills.
@@ -16,7 +16,7 @@
 
 <br/>
 
-## <img width="4%" title="My projects" src="attachment/png/com.png"> My projects
+## <img width="3%" title="My projects" src="attachment/png/com.png"> My projects
 
 <p align="center">
     <a href="https://github.com/mrRazmarin/AutoTestsWebShop"><img width=45% title="UI automated tests for the 'demowebshop' web application using the Selenide and JUnit5 frameworks" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mrRazmarin&repo=AutoTestsWebShop&show_owner=true&theme=buefy"></a>
@@ -25,6 +25,8 @@
 <p align="right">
     <a href="https://github.com/mrRazmarin?tab=repositories&sort=stargazers"><img width="170" title="All repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20repositories-ba79ff?style=for-the-badge&logoColor=white&logo=repo"></a>
 </p>
+
+## <img width="3%" title="Technology stack" src="attachment/png/tools.png"> Technology stack
 
 <p align="center">
     <img title="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-ffc933?style=for-the-badge">
@@ -50,7 +52,7 @@
 <br/>
 
 
-## <img width="4%" title="GitHub statistics" src="attachment/png/sms.png"> GitHub statistics
+## <img width="3%" title="GitHub statistics" src="attachment/png/sms.png"> GitHub statistics
 
 <p align="center">
     <a href="https://github.com/mrRazmarin?tab=repositories&sort=stargazers"><img width=45% title="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrRazmarin&show_icons=true&theme=buefy"></a>
@@ -61,16 +63,16 @@
 
 <br/>
 
-## <img width="4%" title="Contacts" src="attachment/png/contact.png"> Contacts
+## <img width="3%" title="Contacts" src="attachment/png/contact.png"> Contacts
 
 <p align="center">
-    <a href="https://t.me/MikhailSalnikov_v"><img width=5% title="Telegram" src="attachment/logo/linkedin.png"></a>
+    <a href="https://t.me/MikhailSalnikov_v"><img width = "5%" title="Telegram" src="attachment/png/telegram.png"></a>
 </p>
 
 <br/>
 
 <p align="center">
-    <img title="Good bye :)" src="https://readme-typing-svg.herokuapp.com?color=ba79ff&font=montserrat-medium&size=20&center=true&vCenter=true&lines=%48%61%76%65%20%61%20%67%6F%6F%64%20%64%61%79+:)">
+    <img title="Good bye :)" src="https://readme-typing-svg.herokuapp.com/demo/?weight=600&size=24&color=5118F7&lines=Good+bye+(+-_-)">
 </p>
 
 <p align="center">
