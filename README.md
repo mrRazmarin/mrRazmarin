@@ -1,9 +1,9 @@
 <p align="center">
-    <img title="Hello" width = "35%" src="attachment/gif/hello.gif">
+    <img title="Hello" width = "45%" src="attachment/gif/hello.gif">
 </p>
 
 
-# <img width="3%" title="About me" src="attachment/png/me.png"> About me
+# <img width="4%" title="About me" src="attachment/png/me.png"> About me
 
 <img align="right" width="35%" src="attachment/gif/bloom-man.gif">
 
@@ -14,9 +14,12 @@
 </p>
 
 
+
 <br/>
 
-## <img width="3%" title="My projects" src="attachment/png/com.png"> My projects
+<br/>
+
+## <img width="4%" title="My projects" src="attachment/png/com.png"> My projects
 
 <p align="center">
     <a href="https://github.com/mrRazmarin/AutoTestsWebShop"><img width=45% title="UI automated tests for the 'demowebshop' web application using the Selenide and JUnit5 frameworks" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mrRazmarin&repo=AutoTestsWebShop&show_owner=true&theme=buefy"></a>
@@ -26,7 +29,7 @@
     <a href="https://github.com/mrRazmarin?tab=repositories&sort=stargazers"><img width="170" title="All repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20repositories-ba79ff?style=for-the-badge&logoColor=white&logo=repo"></a>
 </p>
 
-## <img width="3%" title="Technology stack" src="attachment/png/tools.png"> Technology stack
+## <img width="4%" title="Technology stack" src="attachment/png/tools.png"> Technology stack
 
 <p align="center">
     <img title="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-ffc933?style=for-the-badge">
@@ -52,7 +55,7 @@
 <br/>
 
 
-## <img width="3%" title="GitHub statistics" src="attachment/png/sms.png"> GitHub statistics
+## <img width="4%" title="GitHub statistics" src="attachment/png/sms.png"> GitHub statistics
 
 <p align="center">
     <a href="https://github.com/mrRazmarin?tab=repositories&sort=stargazers"><img width=45% title="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrRazmarin&show_icons=true&theme=buefy"></a>
@@ -63,7 +66,7 @@
 
 <br/>
 
-## <img width="3%" title="Contacts" src="attachment/png/contact.png"> Contacts
+## <img width="4%" title="Contacts" src="attachment/png/contact.png"> Contacts
 
 <p align="center">
     <a href="https://t.me/MikhailSalnikov_v"><img width = "5%" title="Telegram" src="attachment/png/telegram.png"></a>
@@ -72,7 +75,7 @@
 <br/>
 
 <p align="center">
-    <img title="Good bye :)" src="https://readme-typing-svg.herokuapp.com/demo/?weight=600&size=24&color=5118F7&lines=Good+bye+(+-_-)">
+    <img title="Good bye :)" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5118F7&width=435&lines=Good+bye+(+-_-)" alt="Typing SVG">
 </p>
 
 <p align="center">
