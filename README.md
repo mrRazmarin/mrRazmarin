@@ -19,6 +19,8 @@
 
 <br/>
 
+<br/>
+
 ## <img width="4%" title="My projects" src="attachment/png/com.png"> My projects
 
 <p align="center">
@@ -47,7 +49,7 @@
     <!-- <img title="Appium" src="https://img.shields.io/badge/-Appium-ffc933?style=for-the-badge">--->
     <!-- <img title="BrowserStack" src="https://img.shields.io/badge/-BrowserStack-7e06ff?style=for-the-badge">--->
     <!-- <img title="Slack" src="https://img.shields.io/badge/-Slack-ffc933?logo=slack&style=for-the-badge">--->
-    <img title="Telegram" src="https://img.shields.io/badge/-Telegram-7e06ff?logo=telegram&style=for-the-badge">
+    <!-- <img title="Telegram" src="https://img.shields.io/badge/-Telegram-7e06ff?logo=telegram&style=for-the-badge">--->
     <!-- <img title="Jira" src="https://img.shields.io/badge/-Jira-ffc933?logo=jira&style=for-the-badge">--->
 </p>
 
