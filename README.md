@@ -1,13 +1,13 @@
 <p align="center">
-    <img title="Hello" src="attachments/gif/welcome.gif">
+    <img title="Hello" src="attachment/gif/welcome.gif">
 </p>
 
 
-# <img width="5%" title="About me" src="attachments/png/me.png"> About me
+# <img width="5%" title="About me" src="attachment/png/me.png"> About me
 
-<img align="right" width="35%" src="attachments/gif/bloom-man.gif">
+<img align="right" width="35%" src="attachment/gif/bloom-man.gif">
 
-### _I am a QA Engineer_ <img width="3%" src="attachments/png/bug.png">
+### _I am a QA Engineer_ <img width="3%" src="attachment/png/bug.png">
 
 <p align="left">
     I have over 2 years of experience in testing web applications and quality assurance. I regularly pursue further education in the field of testing, studying new technologies and improving my skills.
@@ -16,7 +16,7 @@
 
 <br/>
 
-## <img width="4%" title="My projects" src="attachments/png/com.png"> My projects
+## <img width="4%" title="My projects" src="attachment/png/com.png"> My projects
 
 <p align="center">
     <a href="https://github.com/mrRazmarin/AutoTestsWebShop"><img width=45% title="UI automated tests for the 'demowebshop' web application using the Selenide and JUnit5 frameworks" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mrRazmarin&repo=AutoTestsWebShop&show_owner=true&theme=buefy"></a>
@@ -50,7 +50,7 @@
 <br/>
 
 
-## <img width="4%" title="GitHub statistics" src="attachments/png/sms.png"> GitHub statistics
+## <img width="4%" title="GitHub statistics" src="attachment/png/sms.png"> GitHub statistics
 
 <p align="center">
     <a href="https://github.com/mrRazmarin?tab=repositories&sort=stargazers"><img width=45% title="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrRazmarin&show_icons=true&theme=buefy"></a>
@@ -61,10 +61,10 @@
 
 <br/>
 
-## <img width="4%" title="Contacts" src="attachments/png/contact.png"> Contacts
+## <img width="4%" title="Contacts" src="attachment/png/contact.png"> Contacts
 
 <p align="center">
-    <a href="https://t.me/MikhailSalnikov_v"><img width=5% title="Telegram" src="attachments/logo/linkedin.png"></a>
+    <a href="https://t.me/MikhailSalnikov_v"><img width=5% title="Telegram" src="attachment/logo/linkedin.png"></a>
 </p>
 
 <br/>
