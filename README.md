@@ -25,6 +25,7 @@
 
 <p align="center">
     <a href="https://github.com/mrRazmarin/AutoTestsWebShop"><img width=45% title="UI automated tests for the 'demowebshop' web application using the Selenide and JUnit5 frameworks" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mrRazmarin&repo=AutoTestsWebShop&show_owner=true&theme=buefy"></a>
+    <a href="https://github.com/mrRazmarin/AutoTestsAPI"><img width=45% title="API automated tests for the 'reqres' API using the RestAssured and JUnit5 frameworks" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mrRazmarin&repo=AutoTestsAPI&show_owner=true&theme=buefy"></a>
 </p>
 
 <p align="right">
