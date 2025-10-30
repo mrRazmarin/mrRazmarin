@@ -25,8 +25,9 @@
 
 <p align="center">
     <img title="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-ffc933?style=for-the-badge">
-    <img title="Java" src="https://img.shields.io/badge/-Java-7e06ff?logo=java&style=for-the-badge">
+    <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7f52ff?logo=kotlin&logoColor=white&style=for-the-badge">
     <img title="Selenide" src="https://img.shields.io/badge/-Selenide-ffc933?style=for-the-badge">
+    <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-000000?logo=playwright&logoColor=white&style=for-the-badge">
     <!-- <img title="Selenoid" src="https://img.shields.io/badge/-Selenoid-7e06ff?style=for-the-badge">--->
     <img title="Allure Report" src="https://img.shields.io/badge/-Allure%20Report-ffc933?style=for-the-badge">
     <!-- <img title="Gradle" src="https://img.shields.io/badge/-Gradle-7e06ff?logo=gradle&style=for-the-badge">--->
