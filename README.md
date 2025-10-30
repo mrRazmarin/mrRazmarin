@@ -21,17 +21,6 @@
 
 <br/>
 
-## <img width="4%" title="My projects" src="attachment/png/com.png"> My projects
-
-<p align="center">
-    <a href="https://github.com/mrRazmarin/AutoTestsWebShop"><img width=45% title="UI automated tests for the 'demowebshop' web application using the Selenide and JUnit5 frameworks" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mrRazmarin&repo=AutoTestsWebShop&show_owner=true&theme=buefy"></a>
-    <a href="https://github.com/mrRazmarin/AutoTestsAPI"><img width=45% title="API automated tests for the 'reqres' API using the RestAssured and JUnit5 frameworks" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mrRazmarin&repo=AutoTestsAPI&show_owner=true&theme=buefy"></a>
-</p>
-
-<p align="right">
-    <a href="https://github.com/mrRazmarin?tab=repositories&sort=stargazers"><img width="170" title="All repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20repositories-ba79ff?style=for-the-badge&logoColor=white&logo=repo"></a>
-</p>
-
 ## <img width="4%" title="Technology stack" src="attachment/png/tools.png"> Technology stack
 
 <p align="center">
@@ -54,18 +43,6 @@
     <!-- <img title="Jira" src="https://img.shields.io/badge/-Jira-ffc933?logo=jira&style=for-the-badge">--->
 </p>
 
-
-<br/>
-
-
-## <img width="4%" title="GitHub statistics" src="attachment/png/sms.png"> GitHub statistics
-
-<p align="center">
-    <a href="https://github.com/mrRazmarin?tab=repositories&sort=stargazers"><img width=45% title="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrRazmarin&show_icons=true&theme=buefy"></a>
-    <a href="https://github.com/mrRazmarin?tab=repositories&sort=stargazers"><img width=42.5% title="Top Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mrRazmarin&theme=buefy&hide=freemarker"></a>
-    <img width="30%" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
-    <a href="https://github.com/mrRazmarin?tab=repositories&sort=stargazers"><img width=57% title="Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=mrRazmarin&show_icons=true&theme=buefy"></a>
-</p>
 
 <br/>
 
