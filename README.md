@@ -1,51 +1,86 @@
-# <img width="24" alt="About me" src="https://raw.githubusercontent.com/mrRazmarin/mrRazmarin/main/attachment/png/me.png"> Обо мне
+<p align="center">
+    <img title="Hello" width = "45%" src="attachment/gif/hello.gif">
+</p>
 
-### _QA Engineer_ <img width="18" alt="Bug" src="https://raw.githubusercontent.com/mrRazmarin/mrRazmarin/main/attachment/png/bug.png">
 
-Опыт в тестировании веб-приложений и обеспечении качества — более 2 лет. Постоянно обучаюсь, открываю новые технологии и улучшаю навыки.
+# <img width="4%" title="About me" src="attachment/png/me.png"> About me
 
----
+<img align="right" width="35%" src="attachment/gif/bloom-man.gif">
 
-## <img width="24" alt="Projects" src="https://raw.githubusercontent.com/mrRazmarin/mrRazmarin/main/attachment/png/com.png"> Проекты
+### _I am a QA Engineer_ <img width="2%" src="attachment/png/bug.png">
 
-[![AutoTestsWebShop](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mrRazmarin&repo=AutoTestsWebShop&show_owner=true&theme=buefy)](https://github.com/mrRazmarin/AutoTestsWebShop)  
-UI автотесты для демо-вебшопа с использованием Selenide и JUnit5.
+<p align="left">
+    I have over 2 years of experience in testing web applications and quality assurance. I regularly pursue further education in the field of testing, studying new technologies and improving my skills.
+</p>
 
-[![AutoTestsAPI](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mrRazmarin&repo=AutoTestsAPI&show_owner=true&theme=buefy)](https://github.com/mrRazmarin/AutoTestsAPI)  
-API автотесты для ReqRes с RestAssured и JUnit5.
 
-[![Все репозитории](https://custom-icon-badges.herokuapp.com/badge/-All%20repositories-ba79ff?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/mrRazmarin?tab=repositories&sort=stargazers)
 
----
+<br/>
 
-## <img width="24" alt="Tech stack" src="https://raw.githubusercontent.com/mrRazmarin/mrRazmarin/main/attachment/png/tools.png"> Стек технологий
+<br/>
 
-<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-ffc933?style=for-the-badge">  
-<img alt="Java" src="https://img.shields.io/badge/-Java-7e06ff?logo=java&style=for-the-badge">  
-<img alt="Selenide" src="https://img.shields.io/badge/-Selenide-ffc933?style=for-the-badge">  
-<img alt="Allure Report" src="https://img.shields.io/badge/-Allure%20Report-ffc933?style=for-the-badge">  
-<img alt="JUnit 5" src="https://img.shields.io/badge/-JUnit%205-ffc933?logo=junit5&style=for-the-badge">  
-<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-7e06ff?logo=github&style=for-the-badge">  
-<img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-ffc933?logo=jenkins&style=for-the-badge">  
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-7e06ff?logo=docker&style=for-the-badge">  
-<img alt="REST Assured" src="https://img.shields.io/badge/-REST%20Assured-7e06ff?style=for-the-badge">
+<br/>
 
----
+## <img width="4%" title="My projects" src="attachment/png/com.png"> My projects
 
-## <img width="24" alt="GitHub stats" src="https://raw.githubusercontent.com/mrRazmarin/mrRazmarin/main/attachment/png/sms.png"> Мои GitHub статистики
+<p align="center">
+    <a href="https://github.com/mrRazmarin/AutoTestsWebShop"><img width=45% title="UI automated tests for the 'demowebshop' web application using the Selenide and JUnit5 frameworks" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mrRazmarin&repo=AutoTestsWebShop&show_owner=true&theme=buefy"></a>
+    <a href="https://github.com/mrRazmarin/AutoTestsAPI"><img width=45% title="API automated tests for the 'reqres' API using the RestAssured and JUnit5 frameworks" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mrRazmarin&repo=AutoTestsAPI&show_owner=true&theme=buefy"></a>
+</p>
 
-[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrRazmarin&show_icons=true&theme=buefy)](https://github.com/mrRazmarin?tab=repositories&sort=stargazers)
+<p align="right">
+    <a href="https://github.com/mrRazmarin?tab=repositories&sort=stargazers"><img width="170" title="All repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20repositories-ba79ff?style=for-the-badge&logoColor=white&logo=repo"></a>
+</p>
 
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mrRazmarin&theme=buefy&hide=freemarker)](https://github.com/mrRazmarin?tab=repositories&sort=stargazers)
+## <img width="4%" title="Technology stack" src="attachment/png/tools.png"> Technology stack
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mrRazmarin&show_icons=true&theme=buefy)](https://github.com/mrRazmarin?tab=repositories&sort=stargazers)
+<p align="center">
+    <img title="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-ffc933?style=for-the-badge">
+    <img title="Java" src="https://img.shields.io/badge/-Java-7e06ff?logo=java&style=for-the-badge">
+    <img title="Selenide" src="https://img.shields.io/badge/-Selenide-ffc933?style=for-the-badge">
+    <!-- <img title="Selenoid" src="https://img.shields.io/badge/-Selenoid-7e06ff?style=for-the-badge">--->
+    <img title="Allure Report" src="https://img.shields.io/badge/-Allure%20Report-ffc933?style=for-the-badge">
+    <!-- <img title="Gradle" src="https://img.shields.io/badge/-Gradle-7e06ff?logo=gradle&style=for-the-badge">--->
+    <img title="JUnit 5" src="https://img.shields.io/badge/-JUnit%205-ffc933?logo=junit5&style=for-the-badge">
+    <img title="GitHub" src="https://img.shields.io/badge/-GitHub-7e06ff?logo=github&style=for-the-badge">
+    <img title="Jenkins" src="https://img.shields.io/badge/-Jenkins-ffc933?logo=jenkins&style=for-the-badge">
+    <img title="Docker" src="https://img.shields.io/badge/-Docker-7e06ff?logo=docker&style=for-the-badge"> 
+    <!-- <img title="Allure TestOps" src="https://img.shields.io/badge/-Allure%20TestOps-ffc933?style=for-the-badge">--->
+    <img title="REST Assured" src="https://img.shields.io/badge/-REST%20Assured-7e06ff?style=for-the-badge">
+    <!-- <img title="Appium" src="https://img.shields.io/badge/-Appium-ffc933?style=for-the-badge">--->
+    <!-- <img title="BrowserStack" src="https://img.shields.io/badge/-BrowserStack-7e06ff?style=for-the-badge">--->
+    <!-- <img title="Slack" src="https://img.shields.io/badge/-Slack-ffc933?logo=slack&style=for-the-badge">--->
+    <!-- <img title="Telegram" src="https://img.shields.io/badge/-Telegram-7e06ff?logo=telegram&style=for-the-badge">--->
+    <!-- <img title="Jira" src="https://img.shields.io/badge/-Jira-ffc933?logo=jira&style=for-the-badge">--->
+</p>
 
----
 
-## <img width="24" alt="Contacts" src="https://raw.githubusercontent.com/mrRazmarin/mrRazmarin/main/attachment/png/contact.png"> Контакты
+<br/>
 
-[![Telegram](https://raw.githubusercontent.com/mrRazmarin/mrRazmarin/main/attachment/png/telegram.png)](https://t.me/MikhailSalnikov_v)
 
----
+## <img width="4%" title="GitHub statistics" src="attachment/png/sms.png"> GitHub statistics
 
-*Спасибо за внимание!*
+<p align="center">
+    <a href="https://github.com/mrRazmarin?tab=repositories&sort=stargazers"><img width=45% title="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrRazmarin&show_icons=true&theme=buefy"></a>
+    <a href="https://github.com/mrRazmarin?tab=repositories&sort=stargazers"><img width=42.5% title="Top Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mrRazmarin&theme=buefy&hide=freemarker"></a>
+    <img width="30%" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
+    <a href="https://github.com/mrRazmarin?tab=repositories&sort=stargazers"><img width=57% title="Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=mrRazmarin&show_icons=true&theme=buefy"></a>
+</p>
+
+<br/>
+
+## <img width="4%" title="Contacts" src="attachment/png/contact.png"> Contacts
+
+<p align="center">
+    <a href="https://t.me/MikhailSalnikov_v"><img width = "5%" title="Telegram" src="attachment/png/telegram.png"></a>
+</p>
+
+<br/>
+
+<p align="center">
+    <img title="Good bye :)" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5118F7&width=435&lines=Good+bye+(+-_-)" alt="Typing SVG">
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+</p>
