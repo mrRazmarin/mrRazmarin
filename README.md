@@ -1,64 +1,119 @@
-<p align="center">
-    <img title="Hello" width = "45%" src="attachment/gif/hello.gif">
-</p>
+<div align="center">
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Михаил Сальников | mrRazmarin
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=7e06ff&font=montserrat-medium&size=25&center=true&vCenter=true&lines=Middle+QA+Fullstack+Engineer;3%2B+Years+Experience">
+  </p>
+</div>
+
+---
+
+## 🚀 О себе
+
+<img align="right" height="280" width="350" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" alt="Coder GIF">
+
+### **Кто я**
+
+Я **Middle QA Fullstack Engineer** с опытом в тестировании более 3-х лет. 
+
+Мой профессиональный путь начался с **ручного тестирования** на сложных медицинских IT-проектах, где научился вниманию к деталям и критическому мышлению. Со временем я расширил свои навыки, освоив автоматизацию, и теперь способен обеспечивать качество продукта на всех уровнях — от API до пользовательского интерфейса.
+
+На данный момент я работаю в компании **Flowwow** (маркетплейс), где занимаюсь улучшением процессов тестирования и разработкой автотестов.
+
+---
+
+## 🛠 Технологический стек
+
+Ниже представлены основные инструменты и технологии, которые я использую в своей работе.
+
+<div align="center">
+
+### 🚀 Languages & Frameworks
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
-# <img width="4%" title="About me" src="attachment/png/me.png"> About me
+### 🧪 Testing Tools
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white)
+![Selenide](https://img.shields.io/badge/Selenide-41B883?style=for-the-badge&logo=Selenide&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST_Assured-FF5722?style=for-the-badge&logo=RESTAssured&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=python-requests&logoColor=white)
 
-<img align="right" width="35%" src="attachment/gif/bloom-man.gif">
+### 🛠️ Build Tools & IDE
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache-Maven&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white)
 
-### _I am a QA Engineer_ <img width="2%" src="attachment/png/bug.png">
+</div>
 
-<p align="left">
-    I have over 2 years of experience in testing web applications and quality assurance. I regularly pursue further education in the field of testing, studying new technologies and improving my skills.
-</p>
+---
 
+## 💡 Избранные проекты
 
+Здесь представлены мои наиболее значимые проекты с автоматизацией.
 
-<br/>
+<div align="center">
+### 🔥 Flagship Repositories
+<table>
+<tr>
+<td width="50%" align="center">
+**🌐 API autotests**
+<br>
+[![api-autotests](https://github-readme-stats.vercel.app/api/pin/?username=mrrazmarin&repo=learning-python-zed&theme=tokyonight&show_owner=true)](https://github.com/mrRazmarin/learning-python-zed)
+<br>
+</td>
+</tr>
+</table>
 
-<br/>
+</div>
 
-<br/>
+---
 
-## <img width="4%" title="Technology stack" src="attachment/png/tools.png"> Technology stack
+## 📊 GitHub Аналитика
 
-<p align="center">
-    <img title="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-ffc933?style=for-the-badge">
-    <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7f52ff?logo=kotlin&logoColor=white&style=for-the-badge">
-    <img title="Selenide" src="https://img.shields.io/badge/-Selenide-ffc933?style=for-the-badge">
-    <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-000000?logo=playwright&logoColor=white&style=for-the-badge">
-    <!-- <img title="Selenoid" src="https://img.shields.io/badge/-Selenoid-7e06ff?style=for-the-badge">--->
-    <img title="Allure Report" src="https://img.shields.io/badge/-Allure%20Report-ffc933?style=for-the-badge">
-    <!-- <img title="Gradle" src="https://img.shields.io/badge/-Gradle-7e06ff?logo=gradle&style=for-the-badge">--->
-    <img title="JUnit 5" src="https://img.shields.io/badge/-JUnit%205-ffc933?logo=junit5&style=for-the-badge">
-    <img title="GitHub" src="https://img.shields.io/badge/-GitHub-7e06ff?logo=github&style=for-the-badge">
-    <img title="Jenkins" src="https://img.shields.io/badge/-Jenkins-ffc933?logo=jenkins&style=for-the-badge">
-    <img title="Docker" src="https://img.shields.io/badge/-Docker-7e06ff?logo=docker&style=for-the-badge"> 
-    <!-- <img title="Allure TestOps" src="https://img.shields.io/badge/-Allure%20TestOps-ffc933?style=for-the-badge">--->
-    <img title="REST Assured" src="https://img.shields.io/badge/-REST%20Assured-7e06ff?style=for-the-badge">
-    <!-- <img title="Appium" src="https://img.shields.io/badge/-Appium-ffc933?style=for-the-badge">--->
-    <!-- <img title="BrowserStack" src="https://img.shields.io/badge/-BrowserStack-7e06ff?style=for-the-badge">--->
-    <!-- <img title="Slack" src="https://img.shields.io/badge/-Slack-ffc933?logo=slack&style=for-the-badge">--->
-    <!-- <img title="Telegram" src="https://img.shields.io/badge/-Telegram-7e06ff?logo=telegram&style=for-the-badge">--->
-    <!-- <img title="Jira" src="https://img.shields.io/badge/-Jira-ffc933?logo=jira&style=for-the-badge">--->
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrrazmarin&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrrazmarin&theme=dracula&utcOffset=8)
 
+![snake gif](https://github.com/mrrazmarin/mrrazmarin/blob/output/github-contribution-grid-snake.gif)
 
-<br/>
+---
 
-## <img width="4%" title="Contacts" src="attachment/png/contact.png"> Contacts
+## 📜 Сертификаты
 
-<p align="center">
-    <a href="https://t.me/MikhailSalnikov_v"><img width = "5%" title="Telegram" src="attachment/png/telegram.png"></a>
-</p>
+<div align="center">
+    <img src="attachment/png/cert/cert_learn_QA.png" alt="Cert_bash" width="">
+    <img src="attachment/png/cert/cert_netology_based-Java.png" alt="Cert_netology_based-java" width="">
+    <img src="attachment/png/cert/cert_netology_based-OOP.png" alt="Cert_netology_based-oop" width="">
+    <img src="attachment/png/cert/cert_netology_based-Git.png" alt="Cert_netology_based-git" width="">
+</div>
 
-<br/>
+---
 
-<p align="center">
-    <img title="Good bye :)" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5118F7&width=435&lines=Good+bye+(+-_-)" alt="Typing SVG">
-</p>
+## 📬 Связаться со мной
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
-</p>
+Я всегда открыт к обсуждению новых проектов, идей или возможностей стать частью вашего видения.
+
+<div align="center">
+
+  <a href="https://t.me/MikhailSalnikov_v" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  
+  <a href="mailto:salnikovmishanew@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+
+</div>
+
+---
+<div align="center">
+  <i>Сделано с ❤️ и кодом</i>
+</div>
