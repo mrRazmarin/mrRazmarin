@@ -14,7 +14,7 @@
 
 ## 🚀 О себе
 
-<img align="right" height="280" width="350" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" alt="Coder GIF">
+<img align="right" height="230" width="350" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" alt="Coder GIF">
 
 ### **Кто я**
 
@@ -61,10 +61,12 @@
 Здесь представлены мои наиболее значимые проекты с автоматизацией.
 
 <div align="center">
+
 ### 🔥 Flagship Repositories
 <table>
 <tr>
 <td width="50%" align="center">
+
 **🌐 API autotests**
 <br>
 [![api-autotests](https://github-readme-stats.vercel.app/api/pin/?username=mrrazmarin&repo=learning-python-zed&theme=tokyonight&show_owner=true)](https://github.com/mrRazmarin/learning-python-zed)
@@ -77,23 +79,19 @@
 
 ---
 
-## 📊 GitHub Аналитика
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrrazmarin&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrrazmarin&theme=dracula&utcOffset=8)
-
-![snake gif](https://github.com/mrrazmarin/mrrazmarin/blob/output/github-contribution-grid-snake.gif)
-
----
-
 ## 📜 Сертификаты
 
-<div align="center">
-    <img src="attachment/png/cert/cert_learn_QA.png" alt="Cert_bash" width="">
-    <img src="attachment/png/cert/cert_netology_based-Java.png" alt="Cert_netology_based-java" width="">
-    <img src="attachment/png/cert/cert_netology_based-OOP.png" alt="Cert_netology_based-oop" width="">
-    <img src="attachment/png/cert/cert_netology_based-Git.png" alt="Cert_netology_based-git" width="">
-</div>
+<details>
+    <summary><b>🏆 Нажмите, чтобы увидеть мои дипломы и сертификаты</b></summary>
+    <br />
+    <div align="center">
+        <img src="attachment/png/cert/cert_learn_QA.png" alt="Cert_bash" width="">
+        <img src="attachment/png/cert/cert_netology_based-Java.png" alt="Cert_netology_based-java" width="">
+        <img src="attachment/png/cert/cert_netology_based-OOP.png" alt="Cert_netology_based-oop" width="">
+        <img src="attachment/png/cert/cert_netology_based-Git.png" alt="Cert_netology_based-git" width="">
+    </div>
+
+</details>
 
 ---
 
